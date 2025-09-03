@@ -15,3 +15,15 @@ Improvement idea:
 One way to improve task tracking is to make the board more user-friendly for non-technical team members. This could mean:
 
 Creating a clear naming format for cards (e.g., “[Platform] – [Task] – [Due Date]”) so they’re easy to scan.
+
+Stand-up Meeting Observation
+
+During the stand-up, each team member gave a short update on what they worked on yesterday, what they’re focusing on today, and if they have any blockers. I noticed the updates were kept brief, but also gave enough context so everyone understood the overall progress.
+
+Retrospective Reflection
+
+In the retrospective notes, the team discussed what went well (clear communication and task ownership), what didn’t go so well (some delays due to unclear priorities), and action points (better use of the Kanban board to track status).
+
+One Change for Better Collaboration
+
+I can make my own updates clearer and more concise by focusing on the outcome of what I did, not just the task itself. This will help others quickly understand how my work connects to the team’s goals and avoid confusion.
